@@ -1,0 +1,6 @@
+repo: 69e5f80771d81334ad8901906131fe1718d11cc4
+node: 364ac57cea5c197ca9b7015ba29dcc1ff94c9f61
+branch: default
+latesttag: unity-2018.1
+latesttagdistance: 6
+changessincelatesttag: 6

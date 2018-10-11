@@ -1,0 +1,11 @@
+﻿  RenderAPI_D3D11.cpp
+  RenderingPlugin.cpp
+     Creating library C:\Users\mauri\Raytracing\NativeRenderingPlugin\Unity-Technologies-graphicsdemos-364ac57cea5c\NativeRenderingPlugin\PluginSource\projects\VisualStudio2015\..\..\build\x64\Release\RenderingPlugin.lib and object C:\Users\mauri\Raytracing\NativeRenderingPlugin\Unity-Technologies-graphicsdemos-364ac57cea5c\NativeRenderingPlugin\PluginSource\projects\VisualStudio2015\..\..\build\x64\Release\RenderingPlugin.exp
+  Generating code
+  3 of 434 functions ( 0.7%) were compiled, the rest were copied from previous compilation.
+    0 functions were new in current compilation
+    3 functions had inline decision re-evaluated but remain unchanged
+  Finished generating code
+  RenderingPlugin.vcxproj -> C:\Users\mauri\Raytracing\NativeRenderingPlugin\Unity-Technologies-graphicsdemos-364ac57cea5c\NativeRenderingPlugin\PluginSource\projects\VisualStudio2015\..\..\build\x64\Release\RenderingPlugin.dll
+  Target Plugin Path is C:\Users\mauri\Raytracing\NativeRenderingPlugin\Unity-Technologies-graphicsdemos-364ac57cea5c\NativeRenderingPlugin\PluginSource\projects\VisualStudio2015\..\..\..\UnityProject\Assets\Plugins\x86_64
+          1 file(s) copied.
